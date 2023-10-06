@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Learning Theory |</title><link>https://drparkar.github.io/tag/learning-theory/</link><atom:link href="https://drparkar.github.io/tag/learning-theory/index.xml" rel="self" type="application/rss+xml"/><description>Learning Theory</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><image><url>https://drparkar.github.io/media/icon_hu0ae117fe047177e402e0184950c2f09a_3600_512x512_fill_lanczos_center_3.png</url><title>Learning Theory</title><link>https://drparkar.github.io/tag/learning-theory/</link></image><item><title>DecMAHR: Decentralized Multi-agent Rollout</title><link>https://drparkar.github.io/project/dec-mahr/</link><pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/project/dec-mahr/</guid><description>&lt;p>
+&lt;video controls >
+&lt;source src="https://drparkar.github.io/media/decMAHR_robo_exp.mp4" type="video/mp4">
+&lt;/video>
+A short demonstration of the algorithm executed on the robotarium testbed with physical robots. The cluster&amp;rsquo;s form online and the control are executed in parallel.&lt;/p>
+&lt;p>DecMAHR(Decentralized Multi-Agent Heuristic Rollout) is a newly proposed reinforcement learning algorithm that solves a never before solved variant of vehicle routing problem. The multi-vehicle routing problem in unmapped environments. The developed DecMAHR algorithm solves it with provable guarantees of cost improvements.&lt;/p>
+&lt;p>The DecMAHR is considered even more powerful due to the fact that the execution is online and completely decentralized. This let us implement it on physical robots and makes it robust for real-life deployment using robots.&lt;/p></description></item><item><title>Distributed Online Rollout for Multivehicle Routing in Unmapped Environments</title><link>https://drparkar.github.io/publication/preprint/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/publication/preprint/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item></channel></rss>

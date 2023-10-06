@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Symbolic Logic Simulator |</title><link>https://drparkar.github.io/tag/symbolic-logic-simulator/</link><atom:link href="https://drparkar.github.io/tag/symbolic-logic-simulator/index.xml" rel="self" type="application/rss+xml"/><description>Symbolic Logic Simulator</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate><image><url>https://drparkar.github.io/media/icon_hu0ae117fe047177e402e0184950c2f09a_3600_512x512_fill_lanczos_center_3.png</url><title>Symbolic Logic Simulator</title><link>https://drparkar.github.io/tag/symbolic-logic-simulator/</link></image><item><title>PyReason-Gym: Symbolic logic simulator for Reinforcement Learning</title><link>https://drparkar.github.io/project/pyreason-gym-rl/</link><pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/project/pyreason-gym-rl/</guid><description>
+&lt;video controls >
+&lt;source src="https://drparkar.github.io/media/pyreason-gym-sim.mov" type="video/quicktime">
+&lt;/video>
+&lt;p>&lt;strong>PyReason-Gym&lt;/strong> is a new symbolic simulator introduced to enable symbolic reinforcement learning. Why is such a simulator necessary? Well, this let&amp;rsquo;s us learn interpretable agent policies defacto and enable transfering of policies to other simulation environments. We explored these possibilities and worked on the simulator and deep reinforcement learning algorithms with following aims:&lt;/p>
+&lt;ol>
+&lt;li>Introduce and verify the new PyReason-Gym simulator for symbolic reinforcement learning.&lt;/li>
+&lt;li>Extend exisiting deep reinforcement learning algorithms to take advantage of symbolic representations provided by PyReason-Gym&lt;/li>
+&lt;li>Demonstrate ease of incorporating human-level symbolic logic to enable reinforcement learning in non-markovian dynamics(temporally non-markovian), which existing algorithms struggle with&lt;/li>
+&lt;li>Demonstrate ease of interpreting and transfering learned policies to other simulation environments&lt;/li>
+&lt;/ol>
+&lt;p>More about the simulator and underlying inference engine can be found below:&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/lab-v2/pyreason-gym" target="_blank" rel="noopener">PyReason-Gym python package&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/lab-v2/pyreason" target="_blank" rel="noopener">PyReason python package&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
