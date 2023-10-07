@@ -2,7 +2,7 @@
 &lt;video controls >
 &lt;source src="https://drparkar.github.io/media/pyreason-gym-sim.mov" type="video/quicktime">
 &lt;/video>
-&lt;p>&lt;strong>PyReason-Gym&lt;/strong> is a new symbolic simulator introduced to enable symbolic reinforcement learning. Why is such a simulator necessary? Well, this let&amp;rsquo;s us learn interpretable agent policies defacto and enable transfering of policies to other simulation environments. We explored these possibilities and worked on the simulator and deep reinforcement learning algorithms with following aims:&lt;/p>
+&lt;p>&lt;strong>PyReason-Gym&lt;/strong> is a new symbolic simulator introduced to enable symbolic reinforcement learning. Why is such a simulator necessary? Well, this let&amp;rsquo;s us learn interpretable agent policies defacto and enable transfering of policies to other simulation environments. We explored these possibilities and worked on the project with following aims:&lt;/p>
 &lt;ol>
 &lt;li>Introduce and verify the new PyReason-Gym simulator for symbolic reinforcement learning.&lt;/li>
 &lt;li>Extend exisiting deep reinforcement learning algorithms to take advantage of symbolic representations provided by PyReason-Gym&lt;/li>
@@ -15,6 +15,7 @@
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/lab-v2/pyreason-gym" target="_blank" rel="noopener">PyReason-Gym python package&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/lab-v2/pyreason" target="_blank" rel="noopener">PyReason python package&lt;/a>&lt;/li>
+&lt;li>A conference paper is submitted and under review&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;/div></description></item></channel></rss>
