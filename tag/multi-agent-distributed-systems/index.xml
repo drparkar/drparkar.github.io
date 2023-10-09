@@ -2,7 +2,7 @@
 &lt;video controls >
 &lt;source src="https://drparkar.github.io/media/dMARL_exp.mp4" type="video/mp4">
 &lt;/video>
-A short demonstration of the algorithm executed on the robotarium testbed with physical robots. The outlined shapes around robots denote the cluster they are part of and the controls are executed in parallel. The square blocks are&lt;/p>
+A short demonstration of the algorithm executed on the robotarium testbed with physical robots. The outlined shapes around robots denote the cluster they are part of and the controls are executed in parallel. The square/rectangular blocks are obstacles and circles are task.&lt;/p>
 &lt;p>&lt;strong>DMAR(Decentralized Multi-Agent Heuristic Rollout)&lt;/strong> algorithm is a newly proposed reinforcement learning algorithm that solves a hitherto unsolved variant of vehicle routing problem; multi-vehicle routing problem in unmapped environments. The developed DMAR algorithm solves it with provable guarantees of cost improvements over a greedy base policy (which is the only viable and probabilistically complete policy aside from DMAR).&lt;/p>
 &lt;p>The DecMAHR is considered even more powerful due to the fact that the execution is online and completely decentralized. This makes it feasible to be deployed on physical robots and makes it robust for real-world solutions using robots.&lt;/p></description></item><item><title>Distributed Online Rollout for Multivehicle Routing in Unmapped Environments</title><link>https://drparkar.github.io/publication/preprint/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/publication/preprint/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
