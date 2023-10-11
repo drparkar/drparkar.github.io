@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reinforcement Learning |</title><link>https://drparkar.github.io/tag/reinforcement-learning/</link><atom:link href="https://drparkar.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml"/><description>Reinforcement Learning</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://drparkar.github.io/media/icon_hu0ae117fe047177e402e0184950c2f09a_3600_512x512_fill_lanczos_center_3.png</url><title>Reinforcement Learning</title><link>https://drparkar.github.io/tag/reinforcement-learning/</link></image><item><title>DMAR: Decentralized Multi-agent Rollout Algorithm</title><link>https://drparkar.github.io/project/dec-mahr/</link><pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/project/dec-mahr/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reinforcement Learning |</title><link>https://drparkar.github.io/tag/reinforcement-learning/</link><atom:link href="https://drparkar.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml"/><description>Reinforcement Learning</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://drparkar.github.io/media/icon_hu0ae117fe047177e402e0184950c2f09a_3600_512x512_fill_lanczos_center_3.png</url><title>Reinforcement Learning</title><link>https://drparkar.github.io/tag/reinforcement-learning/</link></image><item><title>DMAR: Decentralized Multi-agent Rollout Algorithm</title><link>https://drparkar.github.io/project/dec-mahr/</link><pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/project/dec-mahr/</guid><description>&lt;p>
 &lt;video controls >
 &lt;source src="https://drparkar.github.io/media/dMARL_exp.mp4" type="video/mp4">
 &lt;/video>
@@ -28,7 +28,13 @@ A short demonstration of the algorithm executed on the robotarium testbed with p
 &lt;li>A conference paper is submitted and under review&lt;/li>
 &lt;/ul>
 &lt;/div>
-&lt;/div></description></item><item><title>Distributed Online Rollout for Multivehicle Routing in Unmapped Environments</title><link>https://drparkar.github.io/publication/preprint/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/publication/preprint/</guid><description>&lt;!--
+&lt;/div></description></item><item><title>Scalable Semantic Non-Markovian Simulation Proxy for Reinforcement Learning</title><link>https://drparkar.github.io/publication/pyr-gym-rl/</link><pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/publication/pyr-gym-rl/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Distributed Online Rollout for Multivehicle Routing in Unmapped Environments</title><link>https://drparkar.github.io/publication/dmar/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://drparkar.github.io/publication/dmar/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
